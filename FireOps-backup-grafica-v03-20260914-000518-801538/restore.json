@@ -1,0 +1,16 @@
+{
+  "root": "C:\\FireOps\\SimpleFX",
+  "version": "0.3",
+  "files": [
+    {
+      "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Flame.xml",
+      "existed": true,
+      "installed_sha256": "091d2e9c9b16683f363f2c3b10c47cf448d44a3b9bf76788fe359fb0c93773f4"
+    },
+    {
+      "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Smoke.xml",
+      "existed": true,
+      "installed_sha256": "4438d4cf327ead45417d99ba22868e49641e01bdcf9eca0979f5e56c924dd11c"
+    }
+  ]
+}

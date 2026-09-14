@@ -1,0 +1,11 @@
+{
+  "name": "Pilota-1",
+  "host": "127.0.0.1",
+  "port": 8765,
+  "token": "CAMBIA-CHIAVE-GRUPPO-2024",
+  "admin": "CAMBIA-CHIAVE-HOST-2024",
+  "simconnect_dll": "C:/MSFS 2024 SDK/SimConnect SDK/lib/SimConnect.dll",
+    "flame_guid": "88CDD86E-643D-4026-9A17-4E18755E5566",
+  "smoke_guid": "",
+  "altitude_bias_m": 0
+}

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Material Version="1.4.0" Name="FireOps_Smoke_Dense_v06" Guid="{4E3195CE-58E6-40EF-B2A1-EF5CABF825B1}" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="0.98" BlendMode="Transparent">
+    <TagList />
+    <FlagList />
+    <TextureList>
+        <Texture FileName="Textures\fireops_smoke_dense_v06.png" Binding="MTL_BITMAP_DECAL0" />
+    </TextureList>
+    <Attributes>
+        <Diffuse Red="0.65" Green="0.65" Blue="0.65" />
+        <Emissive Red="0" Green="0" Blue="0" />
+        <UVOffset U="0.000000" V="0.000000" />
+        <UVScale U="1.000000" V="1.000000" />
+        <UVRotate>0.000000</UVRotate>
+        <ExtraParameters>
+            <Parameter X="0.020000" Y="0.600000" Z="0.000000" W="1.000000" />
+            <Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000" />
+            <Parameter X="0.000000" Y="0.000000" Z="0.000000" W="0.000000" />
+        </ExtraParameters>
+    </Attributes>
+</Material>

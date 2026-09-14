@@ -1,0 +1,2 @@
+Base classica installata nel singolo XML. Backup: C:\FireOps\FireOps-backup-baseclassica-v2-20260914-024248-037400
+Build All SOLO su SimpleFX. Bridge v2, materiali e client funzionalmente invariati.

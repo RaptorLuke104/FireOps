@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <WorldBase.Flight>
+        <VisualEffect.VisualEffect InstanceId="{F79E9B09-EA3F-5AD4-8228-96C785752807}">
+            <Name>FireOps_R07_Smoke_huge_06</Name>
+            <EmitterList>
+                <ObjectReference InstanceId="{3B69DF3C-5566-5423-A9CF-8B9D9DAC86F8}" id="Emitter" />
+            </EmitterList>
+        </VisualEffect.VisualEffect>
+        <VisualEffect.Emitter InstanceId="{3B69DF3C-5566-5423-A9CF-8B9D9DAC86F8}">
+            <ParticleInit>
+                <ObjectReference InstanceId="{B83B43A3-D433-595D-8644-437F81568AD0}" id="BlockParticleInit" />
+            </ParticleInit>
+            <EmitInLocalSpace>False</EmitInLocalSpace>
+            <Capacity>1031</Capacity>
+            <ParticleRateType>Time</ParticleRateType>
+            <TimeEmission>-1</TimeEmission>
+            <Delay>0</Delay>
+            <MaxDistanceEmission>10000</MaxDistanceEmission>
+            <ParticleRate>{00000000-0000-0000-0000-000000000000}, 26.000000</ParticleRate>
+        </VisualEffect.Emitter>
+        <VisualEffect.BlockParticleInit InstanceId="{B83B43A3-D433-595D-8644-437F81568AD0}">
+            <ParticleUpdate>
+                <ObjectReference InstanceId="{B3556FB6-EEF8-5C40-B024-080A29290EF4}" id="BlockParticleUpdate" />
+            </ParticleUpdate>
+            <ParticleLifetime>
+                <FloatIn>{DFF377A2-FEE6-530A-84C9-D191101CF106}, 0.0</FloatIn>
+            </ParticleLifetime>
+            <ParticleSize>
+                <FloatIn>{00000000-0000-0000-0000-000000000000}, 0.932168</FloatIn>
+            </ParticleSize>
+            <ParticleVelocity>
+                <Float3In>{A6759591-9EF4-5EBB-92FE-4C0EAEA72D94}, 0.000000, 0.000000, 0.000000</Float3In>
+            </ParticleVelocity>
+            <ParticlePosition>
+                <Float3In>{00000000-0000-0000-0000-000000000000}, 0, 2.2, 0</Float3In>
+            </ParticlePosition>
+            <ParticleScale>
+                <Float3In>{00000000-0000-0000-0000-000000000000}, 1, 1, 1</Float3In>
+            </ParticleScale>
+        </VisualEffect.BlockParticleInit>
+        <VisualEffect.BlockParticleUpdate InstanceId="{B3556FB6-EEF8-5C40-B024-080A29290EF4}">
+            <ParticleOutput>
+                <ObjectReference InstanceId="{BA331C13-E254-5BA7-8871-B35EC893C979}" id="Output" />
+            </ParticleOutput>
+            <ParticleSize>
+                <FloatIn>{876DC64E-AF88-520F-B15F-F963B76141F0}, 0.0</FloatIn>
+            </ParticleSize>
+            <ParticleVelocity>
+                <Float3In>{A6759591-9EF4-5EBB-92FE-4C0EAEA72D94}, 0.000000, 0.000000, 0.000000</Float3In>
+            </ParticleVelocity>
+        </VisualEffect.BlockParticleUpdate>
+        <VisualEffect.Output InstanceId="{BA331C13-E254-5BA7-8871-B35EC893C979}">
+            <ParticleColor>
+                <ColorIn>{BD38C68C-8F7C-5BC4-87E0-CCD5B32FAE8F}, 0, 0, 0, 0</ColorIn>
+            </ParticleColor>
+            <PrimitiveType>Quad</PrimitiveType>
+            <QuadBillboardType>Spherical</QuadBillboardType>
+            <Material>{4E3195CE-58E6-40EF-B2A1-EF5CABF825B1}</Material>
+            <UVMode>Default</UVMode>
+        </VisualEffect.Output>
+        <VisualEffect.Vector4 InstanceId="{6A55852F-9B69-5E22-9E22-89EEBE623F3F}">
+            <OutputValue>{BD38C68C-8F7C-5BC4-87E0-CCD5B32FAE8F}</OutputValue>
+            <x>{00000000-0000-0000-0000-000000000000}, 0.28</x>
+            <y>{00000000-0000-0000-0000-000000000000}, 0.28</y>
+            <z>{00000000-0000-0000-0000-000000000000}, 0.28</z>
+            <w>{A78ACBE2-DA54-5370-AD31-D96C8247A468}, 0.000000</w>
+        </VisualEffect.Vector4>
+        <VisualEffect.GetParticleAttribute InstanceId="{2FDBAC18-9CA9-54C6-A3BD-09A020CDA8C5}">
+            <OutputValue>{7C7D5611-BDFA-58F4-8353-1242183C4F46}</OutputValue>
+            <ParticleAttributeType>AgeOverLifetime</ParticleAttributeType>
+        </VisualEffect.GetParticleAttribute>
+        <VisualEffect.GetBezierCurve InstanceId="{BB677C08-7DEA-50D5-907D-FB37DA5DB900}">
+            <OutputValue>{A78ACBE2-DA54-5370-AD31-D96C8247A468}</OutputValue>
+            <FXTime>{7C7D5611-BDFA-58F4-8353-1242183C4F46}, 0.000000</FXTime>
+            <Curve>0,0.000000,NAN,NAN,0.02,0.008211,NAN,NAN,0.07,0.041053,NAN,NAN,0.18,0.667118,NAN,NAN,0.35,0.923702,NAN,NAN,0.55,0.821069,NAN,NAN,0.8,0.359218,NAN,NAN,1,0.000000,NAN,NAN</Curve>
+        </VisualEffect.GetBezierCurve>
+        <VisualEffect.RandomValue InstanceId="{5B1CF03F-6564-5E9C-BB36-E5C816CC13B1}">
+            <OutputValue>{55E778F9-FA37-5053-880C-BA1B7C3F3D00}</OutputValue>
+            <MinRandValue>{00000000-0000-0000-0000-000000000000}, -0.1</MinRandValue>
+            <MaxRandValue>{00000000-0000-0000-0000-000000000000}, 0.1</MaxRandValue>
+            <RandSeed>{00000000-0000-0000-0000-000000000000}, 1024.000000</RandSeed>
+            <RandIndex>{B6BD509A-AE98-59CB-BB09-C29E0F87E310}, 0.000000</RandIndex>
+        </VisualEffect.RandomValue>
+        <VisualEffect.RandomValue InstanceId="{A0EA92E0-E7D6-543A-85FE-256DEC4F45B7}">
+            <OutputValue>{98BD9195-EFA4-54B5-8650-233ED3BDA554}</OutputValue>
+            <MinRandValue>{00000000-0000-0000-0000-000000000000}, -0.1</MinRandValue>
+            <MaxRandValue>{00000000-0000-0000-0000-000000000000}, 0.1</MaxRandValue>
+            <RandSeed>{00000000-0000-0000-0000-000000000000}, 512.000000</RandSeed>
+            <RandIndex>{B6BD509A-AE98-59CB-BB09-C29E0F87E310}, 0.000000</RandIndex>
+        </VisualEffect.RandomValue>
+        <VisualEffect.GetParticleAttribute InstanceId="{D9EA14E0-8AAB-5066-B2E8-A2E2B3EDB273}">
+            <OutputValue>{B6BD509A-AE98-59CB-BB09-C29E0F87E310}</OutputValue>
+            <ParticleAttributeType>id</ParticleAttributeType>
+        </VisualEffect.GetParticleAttribute>
+        <VisualEffect.LocalDirection InstanceId="{C373B21E-0B88-5BF3-90FB-F25E16E2A1D4}">
+            <OutputValue>{226F4FFC-BCE1-5C5C-A070-F3BC7F9BAB4D}</OutputValue>
+            <x>{98BD9195-EFA4-54B5-8650-233ED3BDA554}, 0.000000</x>
+            <z>{55E778F9-FA37-5053-880C-BA1B7C3F3D00}, 0.000000</z>
+        </VisualEffect.LocalDirection>
+        <VisualEffect.AddOperation InstanceId="{6F64A88D-5E05-5AA0-9E5C-CD596B7BDFCB}">
+            <OutputValue>{A6759591-9EF4-5EBB-92FE-4C0EAEA72D94}</OutputValue>
+            <xVariant>{226F4FFC-BCE1-5C5C-A070-F3BC7F9BAB4D}, 0.000000</xVariant>
+            <yVariant>{55C5CA29-72D0-5373-8FD3-353418FF14BA}, 0.000000</yVariant>
+        </VisualEffect.AddOperation>
+        <VisualEffect.GravityVector InstanceId="{AE3DC703-0924-558D-9004-A2277ECD7E7A}">
+            <OutputValue>{55C5CA29-72D0-5373-8FD3-353418FF14BA}</OutputValue>
+            <GravityScale>{2ED09BF8-D4BA-5EC9-9E31-94BD6336C6CC}, 0.0</GravityScale>
+        </VisualEffect.GravityVector>
+        <VisualEffect.RandomValue InstanceId="{A39889D1-9AA4-5D03-A856-980535F9BA47}">
+            <OutputValue>{DFF377A2-FEE6-530A-84C9-D191101CF106}</OutputValue>
+            <MinRandValue>{00000000-0000-0000-0000-000000000000}, 22.745580</MinRandValue>
+            <MaxRandValue>{00000000-0000-0000-0000-000000000000}, 35.382014</MaxRandValue>
+            <RandSeed>{00000000-0000-0000-0000-000000000000}, 1533</RandSeed>
+            <RandIndex>{B6BD509A-AE98-59CB-BB09-C29E0F87E310}, 0.0</RandIndex>
+        </VisualEffect.RandomValue>
+        <VisualEffect.RandomValue InstanceId="{B4908F11-4BA0-5A7C-9A63-C90A98C9AB42}">
+            <OutputValue>{2ED09BF8-D4BA-5EC9-9E31-94BD6336C6CC}</OutputValue>
+            <MinRandValue>{00000000-0000-0000-0000-000000000000}, -11.606636</MinRandValue>
+            <MaxRandValue>{00000000-0000-0000-0000-000000000000}, -8.704977</MaxRandValue>
+            <RandSeed>{00000000-0000-0000-0000-000000000000}, 760</RandSeed>
+            <RandIndex>{B6BD509A-AE98-59CB-BB09-C29E0F87E310}, 0.0</RandIndex>
+        </VisualEffect.RandomValue>
+        <VisualEffect.GetBezierCurve InstanceId="{E3579A9A-7124-5506-9E1B-10CEE06A2F8F}">
+            <OutputValue>{876DC64E-AF88-520F-B15F-F963B76141F0}</OutputValue>
+            <FXTime>{7C7D5611-BDFA-58F4-8353-1242183C4F46}, 0.0</FXTime>
+            <Curve>0,0.932168,NAN,NAN,0.08,1.305035,NAN,NAN,0.2,11.186013,NAN,NAN,0.45,27.965033,NAN,NAN,0.7,44.744053,NAN,NAN,1,59.658738,NAN,NAN</Curve>
+        </VisualEffect.GetBezierCurve>
+    </WorldBase.Flight>
+</SimBase.Document>

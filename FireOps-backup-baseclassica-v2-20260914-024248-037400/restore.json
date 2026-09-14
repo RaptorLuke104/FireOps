@@ -1,0 +1,22 @@
+{
+  "roots": {
+    "project": "C:\\FireOps\\SimpleFX",
+    "client": "C:\\FireOps\\Unico-v08\\TestLocale"
+  },
+  "files": [
+    {
+      "root": "project",
+      "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Unified_v08.xml",
+      "existed": true,
+      "before": "b2576738501939675b7c4a10264b582d8371e0ed7a23afbe90ebd4cb5c6a6a41",
+      "after": "55adcc19435051d04c4cbbf7184b1412ed3e408fc72ebcc8cb150652ba871b3f"
+    },
+    {
+      "root": "client",
+      "path": "prova.py",
+      "existed": true,
+      "before": "428cbc04e7e423f411b44bf72e74d1c474fcac0359b8af3f5360865f2d1a5bca",
+      "after": "0c54b94538a6f65d05e8e0c1d5717b4963b51939193fc029685e000931b13bc5"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+test_cancel (test_core.Core.test_cancel) ... ok
+test_completion (test_core.Core.test_completion) ... ok
+test_cooldown (test_core.Core.test_cooldown) ... ok
+test_distance (test_core.Core.test_distance) ... ok
+test_invalid_guid (test_core.Core.test_invalid_guid) ... ok
+test_miss_consumes (test_core.Core.test_miss_consumes) ... ok
+test_nan (test_core.Core.test_nan) ... ok
+test_packet_abi (test_core.Core.test_packet_abi) ... ok
+test_refill_air_rejected (test_core.Core.test_refill_air_rejected) ... ok
+test_stale (test_core.Core.test_stale) ... ok
+test_two_clients_late_join_and_authority (test_core.Network.test_two_clients_late_join_and_authority) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.035s
+
+OK

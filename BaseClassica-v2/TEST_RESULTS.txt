@@ -1,0 +1,13 @@
+test_links_and_scalar_variant_format (test_base.Graph.test_links_and_scalar_variant_format) ... ok
+test_original_curves_and_lifetimes_retained (test_base.Graph.test_original_curves_and_lifetimes_retained) ... ok
+test_single_classic_graph (test_base.Graph.test_single_classic_graph) ... ok
+test_check_no_writes (test_base.Installer.test_check_no_writes) ... ok
+test_install_restore_preserves_assets (test_base.Installer.test_install_restore_preserves_assets) ... ok
+test_restore_protects_edits (test_base.Installer.test_restore_protects_edits) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.023s
+
+OK
+
+Python syntax checks passed. Local Linux fixture tests only: no Windows SDK build, MSFS render or performance test.
