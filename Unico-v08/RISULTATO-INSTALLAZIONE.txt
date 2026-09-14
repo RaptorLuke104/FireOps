@@ -1,0 +1,4 @@
+Backup: C:\FireOps\FireOps-backup-unico-v08-20260914-011927-773917
+Progetto: C:\FireOps\SimpleFX
+Codice bridge: C:\FireOps\StandaloneModule\Sources\Code
+Installati solo sorgenti. Ricompilare il bridge in Visual Studio, poi i pacchetti in MSFS. NON aprire la vecchia libreria prima della nuova build.

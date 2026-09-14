@@ -1,0 +1,13 @@
+<RPTInputs>
+	<RPTInput Path="c:\fireops\standalonemodule\PackageDefinitions\mycompany-module-standalone\ContentInfo\Thumbnail.jpg">
+		<Package Name="mycompany-module-standalone">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</RPTInput>
+	<RPTInput Path="c:\fireops\standalonemodule\PackageSources\modules\StandaloneModule.wasm">
+		<Package Name="mycompany-module-standalone">
+			<AssetGroup Name="MyCompany_Standalone_Module"/>
+		</Package>
+	</RPTInput>
+</RPTInputs>
+

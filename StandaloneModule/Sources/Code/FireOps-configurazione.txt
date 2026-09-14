@@ -1,0 +1,30 @@
+﻿FireOps bridge - configurazione locale
+SDK: C:\MSFS 2024 SDK
+Code: C:\FireOps\StandaloneModule\Sources\Code
+Backup: C:\FireOps\StandaloneModule\Sources\Code\FireOps-backup-20260913-214526-184
+VFX header: C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h
+Dichiarazioni trovate:
+
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:26:#endif
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:27:
+> C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:28:	FsVfxId fsVfxSpawnInWorld(const char* strGuid, FsVec3d lla, 
+FsVec3d pbh = { 0, 0, 0 }, float minEmissionTime = -1.f, FsVfxGraphParam* graphParams = nullptr, int graphParamsSize = 
+0);
+> C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:29:	FsVfxId fsVfxSpawnOnSimObject(const char* strGuid, FsSimObjId 
+simObjId = 0, const char* nodeName = nullptr, FsVec3d offset = { 0, 0, 0 }, FsVec3d pbhOffset = { 0, 0, 0 }, float 
+minEmissionTime = -1.f, FsVfxGraphParam* graphParams = nullptr, int graphParamsSize = 0);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:30:
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:31:	bool fsVfxPlayInstance(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:32:	bool fsVfxStopInstance(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:33:	bool fsVfxDestroyInstance(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:34:
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:35:	bool fsVfxIsInstancePlaying(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:36:	bool fsVfxIsMinTimePassed(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:37:	bool fsVfxIsValid(FsVfxId id);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:38:
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:39:	bool fsVfxSetOffset(FsVfxId id, FsVec3d newOffset);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:40:	bool fsVfxSetWorldPosition(FsVfxId id, FsVec3d newLla);
+  C:\MSFS 2024 SDK\WASM\include\MSFS\MSFS_Vfx.h:41:	bool fsVfxSetRotation(FsVfxId id, FsVec3d newPbh);
+
+
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>simple-fx</Title>
+		<Manufacturer>mycompany</Manufacturer>
+		<Creator>mycompany</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<PackageOrderHint>CUSTOM_VFX</PackageOrderHint>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\mycompany-simple-fx\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\mycompany-simple-fx\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="VisualEffectLib">
+			<Type>VisualEffectLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\VisualEffectLibs\MyCompany\simple-fx\</AssetDir>
+			<OutputDir>VisualEffectLibs\MyCompany\simple-fx\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

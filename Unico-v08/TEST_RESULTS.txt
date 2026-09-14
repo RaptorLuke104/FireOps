@@ -1,0 +1,17 @@
+test_bridge_guards_and_sdk_signature (test_unified.Graph.test_bridge_guards_and_sdk_signature) ... ok
+test_cpp_python_agree (test_unified.Graph.test_cpp_python_agree) ... ok
+test_generation_and_protocol (test_unified.Graph.test_generation_and_protocol) ... ok
+test_links (test_unified.Graph.test_links) ... ok
+test_single_and_bounds (test_unified.Graph.test_single_and_bounds) ... ok
+test_check_readonly (test_unified.Installer.test_check_readonly) ... ok
+test_cleanup_and_restore (test_unified.Installer.test_cleanup_and_restore) ... ok
+test_missing_material_no_writes (test_unified.Installer.test_missing_material_no_writes) ... ok
+test_restore_refuses_edits (test_unified.Installer.test_restore_refuses_edits) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.300s
+
+OK
+
+Syntax checks passed. EGM96 code/grid unchanged. C++/Python parameters compared on 2121 IDs.
+Only the parameter helper was compiled natively with g++; the full WASM module was NOT compiled against the Windows SDK. No MSFS render/editor test or crash reproduction performed.
