@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>MISC</ContentType>
+		<Title>mycompany-simplefx-materiallib</Title>
+		<Manufacturer/>
+		<Creator>mycompany</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<PackageOrderHint>MISC</PackageOrderHint>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\mycompany-simplefx-materiallib\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\mycompany-simplefx-materiallib\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="simplefx-materiallib">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\MaterialLibs\simplefx-materiallib\</AssetDir>
+			<OutputDir>MaterialLibs\simplefx-materiallib\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>

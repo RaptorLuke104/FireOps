@@ -1,0 +1,14 @@
+[
+  {
+    "path": "PackageSources/MaterialLibs/simplefx-materiallib/FireOps_Flame_Tips_v09.material",
+    "sha256": "349d722646650cb9a84f05975f02901632d3501d003a5f17517bd3f824c7bd95"
+  },
+  {
+    "path": "PackageSources/MaterialLibs/simplefx-materiallib/Textures/fireops_flame_tips_v09.png",
+    "sha256": "7454f6cd36c4a01178defc30e4bf6c99189cd2984390cfa6f3867b6e5a7664fb"
+  },
+  {
+    "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Unified_v08.xml",
+    "sha256": "d46486c5f8d856eeb0509ab1e4b25c18e312fed34316db09df7370d333377eba"
+  }
+]

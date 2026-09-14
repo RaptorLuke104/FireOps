@@ -1,0 +1,15 @@
+test_atlas_has_moving_tips_fixed_base (test_patch.Assets.test_atlas_has_moving_tips_fixed_base) ... ok
+test_flame_transport_is_zero (test_patch.Assets.test_flame_transport_is_zero) ... ok
+test_graph_and_limits (test_patch.Assets.test_graph_and_limits) ... ok
+test_manifest_and_material (test_patch.Assets.test_manifest_and_material) ... ok
+test_smoke_reachable_nodes_unchanged (test_patch.Assets.test_smoke_reachable_nodes_unchanged) ... ok
+test_check_readonly (test_patch.Installer.test_check_readonly) ... ok
+test_install_restore (test_patch.Installer.test_install_restore) ... ok
+test_restore_protects_edits (test_patch.Installer.test_restore_protects_edits) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.057s
+
+OK
+
+Offline asset and fixture tests only. SDK scalar TextureIndex parsing and atlas playback not yet tested on Windows/MSFS.

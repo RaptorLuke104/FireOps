@@ -1,0 +1,21 @@
+<Metadata Version="2" AssetDir="c:\fireops\simplefx\PackageSources\MaterialLibs\simplefx-materiallib\">
+	<Entry Path="Textures\vfx_smoke.png">
+		<![CDATA[030123F508200000000000]]>
+	</Entry>
+	<Entry Path="Textures\fireops_smoke_v02.png">
+		<![CDATA[030123F508200000000000]]>
+	</Entry>
+	<Entry Path="Textures\fireops_smoke_dense_v06.png">
+		<![CDATA[03001DF500000000000000]]>
+	</Entry>
+	<Entry Path="Textures\fireops_flame_v02.png">
+		<![CDATA[030123F508200000000000]]>
+	</Entry>
+	<Entry Path="Textures\fireops_flame_tips_v09.png">
+		<![CDATA[03001DF500000000000000]]>
+	</Entry>
+	<NamedEntry Name="_CommandVersions">
+		<![CDATA[060000002B7FD6B73D17E667070000009CC3A05BD85142FE07000000670286CB39D44BCC0700000093AF0F6139C1C2550700000069A8769A6467BCAE070000007F54A18D4D299F9E040000005400000000000000]]>
+	</NamedEntry>
+</Metadata>
+

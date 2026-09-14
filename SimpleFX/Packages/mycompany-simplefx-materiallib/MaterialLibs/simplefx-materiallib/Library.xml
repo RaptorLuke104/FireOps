@@ -1,0 +1,223 @@
+<Library Version="1.1.0">
+	<Material Version="1.5.0" Name="EngineSmoke" Guid="{B88D7628-C0AD-4F34-A191-639DB9449E93}" Context="VFX editor" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="1.000000" BlendMode="Alpha Blend">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\VFX_SMOKE.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<TwoSided>TRUE</TwoSided>
+			<FlipBackface>FALSE</FlipBackface>
+			<NoCastShadow>FALSE</NoCastShadow>
+			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
+			<Labels/>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.100000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.240000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.5.0" Name="FireOps_Smoke_v02" Guid="{F67BC96A-B7E8-426A-A3D9-69453ED3A7F6}" Context="VFX editor" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="0.650000" BlendMode="Alpha Blend">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\FIREOPS_SMOKE_V02.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<TwoSided>TRUE</TwoSided>
+			<FlipBackface>FALSE</FlipBackface>
+			<NoCastShadow>FALSE</NoCastShadow>
+			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
+			<Labels/>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.100000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.240000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.5.0" Name="FireOps_Flame_Tips_v09" Guid="{D87C44F0-AFC7-45C5-BC31-2ADE717E6B09}" Context="VFX editor" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="0.900000" BlendMode="Alpha Blend">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\FIREOPS_FLAME_TIPS_V09.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<TwoSided>TRUE</TwoSided>
+			<FlipBackface>FALSE</FlipBackface>
+			<NoCastShadow>FALSE</NoCastShadow>
+			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
+			<Labels/>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.100000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.240000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.5.0" Name="FireOps_Flame_v02" Guid="{8E2A6B83-F2C6-4AB2-A03F-0AD954F8F53B}" Context="VFX editor" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="0.900000" BlendMode="Alpha Blend">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\FIREOPS_FLAME_V02.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<Emissive Red="1.000000" Green="1.000000" Blue="1.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<TwoSided>TRUE</TwoSided>
+			<FlipBackface>FALSE</FlipBackface>
+			<NoCastShadow>FALSE</NoCastShadow>
+			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
+			<Labels/>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.100000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.240000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+	<Material Version="1.5.0" Name="FireOps_Smoke_Dense_v06" Guid="{4E3195CE-58E6-40EF-B2A1-EF5CABF825B1}" Context="VFX editor" SurfaceType="UNDEFINED" Type="CODE_DIFFUSE" Metal="0.000000" Rough="0.000000" Opacity="0.980000" BlendMode="Alpha Blend">
+		<TagList/>
+		<FlagList/>
+		<TextureList>
+			<Texture FileName="TEXTURES\FIREOPS_SMOKE_DENSE_V06.PNG.ktx2" Binding="MTL_BITMAP_DECAL0"/>
+		</TextureList>
+		<Attributes>
+			<Diffuse Red="0.650000" Green="0.650000" Blue="0.650000"/>
+			<Emissive Red="0.000000" Green="0.000000" Blue="0.000000"/>
+			<UVScale U="1.000000" V="1.000000"/>
+			<UVRotate>0.000000</UVRotate>
+			<TwoSided>TRUE</TwoSided>
+			<FlipBackface>FALSE</FlipBackface>
+			<NoCastShadow>FALSE</NoCastShadow>
+			<SurfaceTypeOnTransparent>FALSE</SurfaceTypeOnTransparent>
+			<Labels/>
+			<ExtraParameters>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.100000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.240000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="1.000000"/>
+				<Parameter Value="20.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+				<Parameter Value="0.000000"/>
+			</ExtraParameters>
+		</Attributes>
+	</Material>
+</Library>
+

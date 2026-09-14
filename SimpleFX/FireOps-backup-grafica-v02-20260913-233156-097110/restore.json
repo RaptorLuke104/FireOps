@@ -1,0 +1,46 @@
+{
+  "root": "C:\\FireOps\\SimpleFX",
+  "version": "0.2",
+  "files": [
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/FireOps_Flame_v02.material",
+      "existed": true,
+      "installed_sha256": "1981d2ae370a92b78bf75910833a31a66df0200227d83d3761c8a8b38b6bf612"
+    },
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/FireOps_Smoke_v02.material",
+      "existed": true,
+      "installed_sha256": "9048c5c981306009194512c85e83b02b0447379c8a7ada98a149e22366c31385"
+    },
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/Textures/fireops_flame_v02.png",
+      "existed": true,
+      "installed_sha256": "ec42e2274a32bfc9baed88e16710e9407bd2aef15aa5a25a07216121d259c0b1"
+    },
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/Textures/fireops_smoke_v02.png",
+      "existed": true,
+      "installed_sha256": "c36e609445f5e5ddcdd94c7e6b49f67640d5ed43d7e9d9903bb62adff2f6ce42"
+    },
+    {
+      "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Flame.xml",
+      "existed": true,
+      "installed_sha256": "691473a5d08e817e878adb1fb6dcf0bcbf833ed49599f3905ef662213f14423e"
+    },
+    {
+      "path": "PackageSources/VisualEffectLibs/MyCompany/simple-fx/FireOps_Smoke.xml",
+      "existed": true,
+      "installed_sha256": "d0598a59b80fe0b431cbe721acd6057bfc306c18d6aacb440fc1772d7b4d2146"
+    },
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/Textures/fireops_flame_v02.png.FLAGS",
+      "existed": true,
+      "installed_sha256": "9b6062d74e3665cfb05349bb1a57af03771ac04f143ed861a7fe2e785bdf4340"
+    },
+    {
+      "path": "PackageSources/MaterialLibs/simplefx-materiallib/Textures/fireops_smoke_v02.png.FLAGS",
+      "existed": true,
+      "installed_sha256": "9b6062d74e3665cfb05349bb1a57af03771ac04f143ed861a7fe2e785bdf4340"
+    }
+  ]
+}

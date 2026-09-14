@@ -1,0 +1,5 @@
+<VisualEffectLibrary Version="1.0.0">
+  <VisualEffect File="EngineSmoke" />
+  <VisualEffect File="FireOps_Flame" />
+  <VisualEffect File="FireOps_Smoke" />
+</VisualEffectLibrary>

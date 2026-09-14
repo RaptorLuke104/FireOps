@@ -1,0 +1,3 @@
+Backup: C:\FireOps\FireOps-backup-punte-v09-20260914-020917-738104
+Tre file installati. Ora Build All solo su SimpleFX, poi Load nel nuovo materiale FireOps_Flame_Tips_v09.
+WASM e client Unico-v08 invariati.

@@ -1,0 +1,79 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/mycompany-simplefx-materiallib/thumbnail.jpg",
+      "size": 20178,
+      "date": 132872297480000000
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/library.xml",
+      "size": 8411,
+      "date": 134338181570000004
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_flame_tips_v09.png.ktx2",
+      "size": 1398912,
+      "date": 134338181570000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_flame_tips_v09.png.ktx2.json",
+      "size": 119,
+      "date": 134338181570000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_flame_v02.png.ktx2",
+      "size": 350144,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_flame_v02.png.ktx2.flags",
+      "size": 39,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_flame_v02.png.ktx2.json",
+      "size": 232,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_smoke_dense_v06.png.ktx2",
+      "size": 350112,
+      "date": 134338129920000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_smoke_dense_v06.png.ktx2.json",
+      "size": 119,
+      "date": 134338129920000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_smoke_v02.png.ktx2",
+      "size": 350144,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_smoke_v02.png.ktx2.flags",
+      "size": 39,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/fireops_smoke_v02.png.ktx2.json",
+      "size": 249,
+      "date": 134338087160000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/vfx_smoke.png.ktx2",
+      "size": 350144,
+      "date": 134229618440000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/vfx_smoke.png.ktx2.flags",
+      "size": 39,
+      "date": 134229618440000007
+    },
+    {
+      "path": "materiallibs/simplefx-materiallib/textures/vfx_smoke.png.ktx2.json",
+      "size": 198,
+      "date": 134229618440000007
+    }
+  ]
+}

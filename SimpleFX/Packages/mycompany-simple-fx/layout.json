@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "contentinfo/mycompany-simple-fx/thumbnail.jpg",
+      "size": 20178,
+      "date": 132872297480000000
+    },
+    {
+      "path": "visualeffectlibs/mycompany/simple-fx/enginesmoke.spb",
+      "size": 2692,
+      "date": 134338201680000002
+    },
+    {
+      "path": "visualeffectlibs/mycompany/simple-fx/fireops_unified_v08.spb",
+      "size": 13955,
+      "date": 134338201680000002
+    },
+    {
+      "path": "visualeffectlibs/mycompany/simple-fx/visualeffectlibrary.xml",
+      "size": 142,
+      "date": 134338201680000001
+    }
+  ]
+}
